@@ -1,0 +1,9 @@
+[package]
+name = "anytime_weighted_a_star"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+blondie = "0.5.3"
+cpu-time = "1.0.0"
+rand = "0.10.2"
